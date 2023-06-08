@@ -5,13 +5,13 @@
 :root {
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(175, 55%, 40%);
-  --first-color-light: hsl(175, 30%, 48%);
-  --first-color-lighten: hsl(175, 40%, 62%);
+  --first-color: hsl(258, 55%, 40%);
+  --first-color-light: hsl(268, 49%, 43%);
+  --first-color-lighten: hsl(278, 54%, 50%);
   --gradient-color: linear-gradient(180deg,
-                  hsl(178, 35%, 45%),
-                  hsl(178, 55%, 28%));
-  --title-color: hsl(175, 40%, 16%);
+                  hsl(244, 35%, 45%),
+                  hsl(236, 55%, 28%));
+  --title-color: hsl(210, 41%, 16%);
   --text-color: hsl(175, 8%, 50%);
   --white-color: #fff;
   --body-color: hsl(175, 100%, 99%);
