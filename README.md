@@ -1,11 +1,14 @@
-# Animated Profile Card
-## [Watch it on youtube](https://youtu.be/mjC2VeNEFIk)
-### Animated Profile Card
+# Information Profile Card UI
+### BY TALO
 
 - Animated Profile Card UI Design Using HTML & CSS
 - Contains an info button & hover effect with clip-path.
 - With a beautiful minimalist interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Contact
 
-![preview img](/preview.png)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is ** Free to use **
